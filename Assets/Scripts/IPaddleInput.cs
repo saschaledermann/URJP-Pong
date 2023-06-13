@@ -1,5 +1,4 @@
 public interface IPaddleInput
 {
-    void MoveUp();
-    void MoveDown();
+    float GetInput();
 }
